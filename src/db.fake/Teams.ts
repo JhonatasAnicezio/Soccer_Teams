@@ -1,17 +1,17 @@
 const teamsSoccer = [
   {
-    name: "Alemanha",
-    abbreviation: "ger",
+    name: 'Alemanha',
+    abbreviation: 'ger',
     leagues: 3,
   },
   {
-    name: "Brasil",
-    abbreviation: "bra",
+    name: 'Brasil',
+    abbreviation: 'bra',
     leagues: 3,
   },
   {
-    name: "França",
-    abbreviation: "fra",
+    name: 'França',
+    abbreviation: 'fra',
     leagues: 3,
   },
 ];
