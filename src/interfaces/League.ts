@@ -2,7 +2,7 @@ interface League {
   name: string,
   shortName: string,
   slug: string,
-  logos: Logo[],
+  logos?: Logo[],
   teams: Team[],
 };
 
