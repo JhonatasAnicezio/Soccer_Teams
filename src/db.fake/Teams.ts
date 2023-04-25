@@ -2,7 +2,7 @@ const teamsSoccer = [
   {
     name: 'Alemanha',
     abbreviation: 'ger',
-    leagues: 3,
+    leagues: 2,
   },
   {
     name: 'Brasil',
@@ -12,7 +12,7 @@ const teamsSoccer = [
   {
     name: 'França',
     abbreviation: 'fra',
-    leagues: 3,
+    leagues: 2,
   },
 ];
 
