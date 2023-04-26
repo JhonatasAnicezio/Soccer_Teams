@@ -25,16 +25,16 @@ export default function useSelectLeague(initialTeams: Country[]) {
   };
 
   const nextLeague = (): void => {
-    if (indexLeague === teams[indexCountry].leagues - 1) {
-      setIndexLeague(0);
+    if (indexLeague === teams[indexCountry].leagues) {
+      setIndexLeague(1);
     } else {
       setIndexLeague(indexLeague + 1);
     }
   };
 
   const previousLeague = (): void => {
-    if (indexLeague === 0) {
-      setIndexLeague(teams[indexCountry].leagues - 1);
+    if (indexLeague === 1) {
+      setIndexLeague(teams[indexCountry].leagues);
     } else {
       setIndexLeague(indexLeague - 1);
     }
