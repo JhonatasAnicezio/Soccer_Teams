@@ -3,12 +3,16 @@ interface League {
   shortName: string,
   slug: string,
   logos?: Logo[],
-  teams: Team[],
+  teams: Teams,
 }
 
+export type Teams = Team[];
+
 export interface Team {
-  shortDisplayName: string,
-  logos: Logo[],
+  team: {
+    shortDisplayName: string,
+    logos: Logo[],
+  },
 }
 
 export interface Logo {
