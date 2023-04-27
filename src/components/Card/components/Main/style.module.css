@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 275px;
+  height: 256px;
+  width: 100%;
+
+  background-color: #211F2D;
+  border: solid 1px #7F97B4;
+}
+
+.main:hover {
+  color: #000000;
+  background-color: #ECEACE;
+  border: solid 1px #ECEACE;
+}
+
+.main:hover .caret {
+  opacity: 1;
+}
+
+.caret {
+  opacity: 0;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  height: 80%;
+}
