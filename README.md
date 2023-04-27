@@ -1,5 +1,5 @@
 <h1>Projeto Soccer Teams</h1>
-<p>O Projeto Soccer Teams...</p>
+<p>Ainda em desenvolvimento...</p>
 <br><br>
 <h1>Tecnologias utilizadas:</h1>
 <ul>
