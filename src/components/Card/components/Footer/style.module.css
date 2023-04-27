@@ -1,0 +1,56 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  width: 275px;
+  height: 62px;
+  width: 100%;
+  
+  background-color: #211F2D;
+  border: solid 1px #7F97B4;
+}
+
+.footer:hover {
+  color: #000000;
+  background-color: #ECEACE;
+  border: solid 1px #ECEACE;
+}
+
+.footer:hover .caret {
+  opacity: 1;
+}
+
+.caret {
+  opacity: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+  height: 70%;
+}
+
+.container h2 {
+  font-size: 10px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box img {
+  margin-top: 5px;
+  margin-right: 1px;
+}
+
+.box h3 {
+  font-size: 15px;
+  font-weight: bold;
+}
