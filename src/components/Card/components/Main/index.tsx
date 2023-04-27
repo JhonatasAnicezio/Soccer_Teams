@@ -34,7 +34,9 @@ function Main({ teams, isFetching }: Prop) {
       { isFetching ? <p>await...</p> :
         <div className={ classes.box }>
           <h1>{ teams[current].team.shortDisplayName.toUpperCase() }</h1>
-          <img height='150' src={ teams[current].team.logos[0].href } />
+          {teams[current].team.logos[0] && (
+            <img height='150' src={ teams[current].team.logos[0].href } />
+          )}
         </div>
       }
       <AiOutlineCaretRight className={ classes.caret } onClick={ nextTeam } />
