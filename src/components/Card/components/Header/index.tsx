@@ -15,7 +15,7 @@ function Header({ country, nextCountry, previousCountry }: Prop) {
     <div className={classes.header}>
       <AiOutlineCaretLeft className={classes.caret} onClick={ previousCountry } />
       <div className={classes.box}>
-        <h1>{ country.name.toUpperCase() }</h1>
+        <h2>{ country.name.toUpperCase() }</h2>
       </div>
       <AiOutlineCaretRight className={classes.caret} onClick={ nextCountry } />
     </div>
