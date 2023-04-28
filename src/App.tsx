@@ -4,8 +4,11 @@ import classes  from './App.module.css';
 
 function App() {
   return (
-    <div className={ classes.app }>
-      <Card />
+    <div className={classes.app}>
+      <div className={classes.container}>
+        <h1>SELEÇÃO DE TIMES</h1>
+        <Card />
+      </div>
     </div>
   );
 }
