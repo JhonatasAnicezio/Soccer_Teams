@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { Teams } from '../../../../interfaces/League';
 import { AiOutlineCaretLeft, AiOutlineCaretRight } from 'react-icons/ai';
+import swordGeneric from '../../../../assests/swordGeneric.png';
 import classes from './style.module.css';
 
 type Prop = {
@@ -34,8 +35,10 @@ function Main({ teams, isFetching }: Prop) {
       { isFetching ? <p>await...</p> :
         <div className={ classes.box }>
           <h1>{ teams[current].team.shortDisplayName.toUpperCase() }</h1>
-          {teams[current].team.logos[0] && (
+          {teams[current].team.logos[0] ? (
             <img height='150' src={ teams[current].team.logos[0].href } />
+          ) : (
+            <img height='150' src={ swordGeneric } />
           )}
         </div>
       }
