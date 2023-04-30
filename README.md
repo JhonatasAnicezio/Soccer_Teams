@@ -1,5 +1,6 @@
 # Projeto Soccer Teams
 Ainda em desenvolvimento...
+![Animação do App](./src/assets/Peek%202023-04-30%2015-57.gif)
 
 ## Tecnologias utilizadas:
   - HTML / CSS / TypeScript

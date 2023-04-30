@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Teams } from '../../../../interfaces/League';
 import { AiOutlineCaretLeft, AiOutlineCaretRight } from 'react-icons/ai';
-import swordGeneric from '../../../../assests/swordGeneric.png';
+import swordGeneric from '../../../../assets/swordGeneric.png';
 import classes from './style.module.css';
 
 type Prop = {
