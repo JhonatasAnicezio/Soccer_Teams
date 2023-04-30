@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import { Teams } from '../../../../interfaces/League';
 import { AiOutlineCaretLeft, AiOutlineCaretRight } from 'react-icons/ai';
@@ -8,24 +8,24 @@ import classes from './style.module.css';
 type Prop = {
   teams: Teams,
   isFetching: boolean,
+  indexTeam: number,
+  setIndexTeam: (number: number) => void,
 };
 
-function Main({ teams, isFetching }: Prop) {
-  const [ current, setCurrent ] = useState(0);
-
+function Main({ teams, isFetching, indexTeam, setIndexTeam }: Prop) {
   const nextTeam = () => {
-    if(current === teams.length - 1) {
-      setCurrent(0);
+    if(indexTeam === teams.length - 1) {
+      setIndexTeam(0);
     } else {
-      setCurrent(current + 1);
+      setIndexTeam(indexTeam + 1);
     }
   };
 
   const previousTeam = () => {
-    if(current === 0) {
-      setCurrent(teams.length - 1);
+    if(indexTeam === 0) {
+      setIndexTeam(teams.length - 1);
     } else {
-      setCurrent(current - 1);
+      setIndexTeam(indexTeam - 1);
     }
   };
   
@@ -34,9 +34,9 @@ function Main({ teams, isFetching }: Prop) {
       <AiOutlineCaretLeft className={ classes.caret } onClick={ previousTeam } />
       { isFetching ? <p>await...</p> :
         <div className={ classes.box }>
-          <h1>{ teams[current].team.shortDisplayName.toUpperCase() }</h1>
-          {teams[current].team.logos[0] ? (
-            <img height='150' src={ teams[current].team.logos[0].href } />
+          <h1>{ teams[indexTeam].team.shortDisplayName.toUpperCase() }</h1>
+          {teams[indexTeam].team.logos[0] ? (
+            <img height='150' src={ teams[indexTeam].team.logos[0].href } />
           ) : (
             <img height='150' src={ swordGeneric } />
           )}
@@ -62,6 +62,8 @@ Main.propTypes = {
       }).isRequired,
     })
   ).isRequired,
+  indexTeam: PropTypes.number.isRequired,
+  setIndexTeam: PropTypes.func.isRequired,
 };
 
 export default Main;

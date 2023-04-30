@@ -14,6 +14,8 @@ function Card() {
   const {
     country,
     leagueCurrent,
+    indexTeam,
+    setIndexTeam,
     nextCountry,
     previousCountry,
     nextLeague,
@@ -35,7 +37,12 @@ function Card() {
         nextCountry={ nextCountry }
         previousCountry={ previousCountry }
       />
-      <Main teams={ league.teams } isFetching={ isFetching } />
+      <Main
+        teams={ league.teams }
+        isFetching={ isFetching }
+        indexTeam={ indexTeam }
+        setIndexTeam={ setIndexTeam }
+      />
       <Footer
         league={ league }
         nextLeague={ nextLeague }
