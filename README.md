@@ -1,5 +1,8 @@
 # Projeto Soccer Teams
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JhonatasAnicezio/Soccer_Teams/blob/main/LICENCE)
+
 Ainda em desenvolvimento...
+
 ![Animação do App](./src/assets/Peek%202023-04-30%2015-57.gif)
 
 ## Tecnologias utilizadas:
