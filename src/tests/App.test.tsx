@@ -1,9 +1,10 @@
-import { render, screen } from "@testing-library/react"
-import App from "../App"
-import { Provider } from "react-redux";
-import store from "../redux/store";
-import { QueryClientProvider } from "react-query";
-import { queryCliente } from "../services/ApiLeagues";
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import { Provider } from 'react-redux';
+import { QueryClientProvider } from 'react-query';
+import { queryCliente } from '../services/ApiLeagues';
+import store from '../redux/store';
+import App from '../App';
 
 describe('test app', () => {
   it('test component app', () => {
@@ -20,5 +21,5 @@ describe('test app', () => {
 
     expect(h1).toBeInTheDocument();
     expect(card).toBeInTheDocument();
-  })
-})
+  });
+});
