@@ -31,7 +31,7 @@ function Card() {
   });
 
   return (
-    <div className={ classes.card }>
+    <div data-testid='component-card' className={ classes.card }>
       <Header
         country={ country }
         nextCountry={ nextCountry }
