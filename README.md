@@ -1,9 +1,13 @@
 # Projeto Soccer Teams
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/JhonatasAnicezio/Soccer_Teams/blob/main/LICENCE)
 
-Ainda em desenvolvimento...
+### Olá seja bem vindo ao Projeto Soccer Teams!
 
-![Animação do App](./src/assets/Peek%202023-04-30%2015-57.gif)
+Este projeto é uma releitura da tela de seleção de times do jogo [FIFA](https://www.youtube.com/watch?v=Jyckw44AsOg&t=5s)
+
+<p align="center">
+  <img src="./src/assets/Peek%202023-04-30%2015-57.gif" alt="animação do app">
+</p>
 
 ## Tecnologias utilizadas:
   - HTML / CSS / TypeScript
