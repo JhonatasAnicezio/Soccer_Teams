@@ -1,0 +1,976 @@
+{
+  "leagues": [
+    {
+      "id": "4007",
+      "uid": "s:600~l:4007",
+      "name": "Brazilian Serie B",
+      "abbreviation": "Bras B",
+      "midsizeName": "BRA.2",
+      "slug": "bra.2",
+      "season": {
+        "year": 2023,
+        "startDate": "2023-01-01T05:00Z",
+        "endDate": "2024-01-01T04:59Z",
+        "displayName": "2023 Brasileiro Serie B",
+        "type": {
+          "id": "1",
+          "type": 11679,
+          "name": "2023 Brasileiro Serie B",
+          "abbreviation": "2023 Serie B"
+        }
+      },
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        },
+        {
+          "href": "https://a.espncdn.com/i/leaguelogos/soccer/500-dark/2299.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2019-05-08T16:07Z"
+        }
+      ],
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2023-01-01T05:00Z",
+      "calendarEndDate": "2024-01-01T04:59Z",
+      "calendar": [
+        "2023-04-14T07:00Z",
+        "2023-04-15T07:00Z",
+        "2023-04-16T07:00Z",
+        "2023-04-21T07:00Z",
+        "2023-04-22T07:00Z",
+        "2023-04-23T07:00Z",
+        "2023-04-28T07:00Z",
+        "2023-04-29T07:00Z",
+        "2023-04-30T07:00Z",
+        "2023-05-01T07:00Z",
+        "2023-05-02T07:00Z",
+        "2023-05-03T07:00Z",
+        "2023-05-05T07:00Z",
+        "2023-05-06T07:00Z",
+        "2023-05-07T07:00Z",
+        "2023-05-08T07:00Z",
+        "2023-05-10T07:00Z",
+        "2023-05-12T07:00Z",
+        "2023-05-13T07:00Z",
+        "2023-05-14T07:00Z",
+        "2023-05-15T07:00Z",
+        "2023-05-19T07:00Z",
+        "2023-05-20T07:00Z",
+        "2023-05-21T07:00Z",
+        "2023-05-23T07:00Z",
+        "2023-05-24T07:00Z",
+        "2023-05-27T07:00Z",
+        "2023-05-28T07:00Z",
+        "2023-06-02T07:00Z",
+        "2023-06-03T07:00Z",
+        "2023-06-04T07:00Z",
+        "2023-06-06T07:00Z",
+        "2023-06-07T07:00Z",
+        "2023-06-08T07:00Z",
+        "2023-06-09T07:00Z",
+        "2023-06-10T07:00Z",
+        "2023-06-11T07:00Z",
+        "2023-06-23T07:00Z",
+        "2023-06-27T07:00Z",
+        "2023-06-30T07:00Z",
+        "2023-07-04T07:00Z",
+        "2023-07-11T07:00Z",
+        "2023-07-18T07:00Z",
+        "2023-07-21T07:00Z",
+        "2023-07-25T07:00Z",
+        "2023-08-01T07:00Z",
+        "2023-08-04T07:00Z",
+        "2023-08-08T07:00Z",
+        "2023-08-15T07:00Z",
+        "2023-08-22T07:00Z",
+        "2023-08-25T07:00Z",
+        "2023-08-29T07:00Z",
+        "2023-09-19T07:00Z",
+        "2023-09-29T07:00Z",
+        "2023-10-03T07:00Z",
+        "2023-10-06T07:00Z",
+        "2023-10-17T07:00Z",
+        "2023-10-24T07:00Z",
+        "2023-10-27T07:00Z",
+        "2023-10-31T07:00Z",
+        "2023-11-07T08:00Z",
+        "2023-11-10T08:00Z",
+        "2023-11-25T08:00Z"
+      ]
+    }
+  ],
+  "season": {
+    "type": 11679,
+    "year": 2023
+  },
+  "day": {
+    "date": "2023-05-01"
+  },
+  "events": [
+    {
+      "id": "666234",
+      "uid": "s:600~l:4007~e:666234",
+      "date": "2023-05-01T19:00Z",
+      "name": "Criciúma at Londrina",
+      "shortName": "CRI @ LON",
+      "season": {
+        "year": 2023,
+        "type": 11679,
+        "slug": "2023-brasileiro-serie-b"
+      },
+      "competitions": [
+        {
+          "id": "666234",
+          "uid": "s:600~l:4007~e:666234~c:666234",
+          "date": "2023-05-01T19:00Z",
+          "startDate": "2023-05-01T19:00Z",
+          "attendance": 0,
+          "timeValid": true,
+          "recent": true,
+          "status": {
+            "clock": 3120.0,
+            "displayClock": "52'",
+            "period": 2,
+            "type": {
+              "id": "26",
+              "name": "STATUS_SECOND_HALF",
+              "state": "in",
+              "completed": false,
+              "description": "Second Half",
+              "detail": "52'",
+              "shortDetail": "52'"
+            }
+          },
+          "venue": {
+            "id": "5651",
+            "fullName": "Estádio do Café",
+            "address": {
+              "city": "Londrina",
+              "country": "Brazil"
+            }
+          },
+          "format": {
+            "regulation": {
+              "periods": 2
+            }
+          },
+          "notes": [],
+          "geoBroadcasts": [],
+          "broadcasts": [],
+          "competitors": [
+            {
+              "id": "17333",
+              "uid": "s:600~t:17333",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": false,
+              "form": "LLWLL",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "1-0-2",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "17333",
+                "uid": "s:600~t:17333",
+                "abbreviation": "LON",
+                "displayName": "Londrina",
+                "shortDisplayName": "Londrina",
+                "name": "Londrina",
+                "location": "Londrina",
+                "color": "0093EC",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17333.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/17333/londrina",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/17333/londrina",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/17333/londrina",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:17333&section=scores",
+                    "text": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "results",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/results/_/id/17333/londrina",
+                    "text": "Results",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "standings",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/standings/_/league/bra.2",
+                    "text": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/17333/londrina",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "venue": {
+                  "id": "5651"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "9"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "4"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "45.7"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "5"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "7"
+                }
+              ]
+            },
+            {
+              "id": "9971",
+              "uid": "s:600~t:9971",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "form": "WWWLW",
+              "score": "1",
+              "records": [
+                {
+                  "name": "All Splits",
+                  "type": "total",
+                  "summary": "3-0-0",
+                  "abbreviation": "Total"
+                }
+              ],
+              "team": {
+                "id": "9971",
+                "uid": "s:600~t:9971",
+                "abbreviation": "CRI",
+                "displayName": "Criciúma",
+                "shortDisplayName": "Criciúma",
+                "name": "Criciúma",
+                "location": "Criciúma",
+                "color": "F8E71C",
+                "alternateColor": "000000",
+                "isActive": true,
+                "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9971/criciuma",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9971/criciuma",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9971/criciuma",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "scores",
+                      "sportscenter",
+                      "app",
+                      "team"
+                    ],
+                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:9971&section=scores",
+                    "text": "Scores",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "results",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/results/_/id/9971/criciuma",
+                    "text": "Results",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "standings",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/standings/_/league/bra.2",
+                    "text": "Standings",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "squad",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/squad/_/id/9971/criciuma",
+                    "text": "Squad",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "venue": {
+                  "id": "3508"
+                }
+              },
+              "statistics": [
+                {
+                  "name": "appearances",
+                  "abbreviation": "APP",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "foulsCommitted",
+                  "abbreviation": "FC",
+                  "displayValue": "6"
+                },
+                {
+                  "name": "wonCorners",
+                  "abbreviation": "CW",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "goalAssists",
+                  "abbreviation": "A",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "possessionPct",
+                  "abbreviation": "PP",
+                  "displayValue": "54.3"
+                },
+                {
+                  "name": "shotAssists",
+                  "abbreviation": "SHAST",
+                  "displayValue": "7"
+                },
+                {
+                  "name": "shotsOnTarget",
+                  "abbreviation": "ST",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "totalGoals",
+                  "abbreviation": "G",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "totalShots",
+                  "abbreviation": "SH",
+                  "displayValue": "11"
+                }
+              ]
+            }
+          ],
+          "details": [
+            {
+              "type": {
+                "id": "70",
+                "text": "Goal"
+              },
+              "clock": {
+                "value": 540.0,
+                "displayValue": "9'"
+              },
+              "team": {
+                "id": "9971"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "252805",
+                  "displayName": "Crystopher ",
+                  "shortName": "Crystopher ",
+                  "fullName": "Crystopher ",
+                  "jersey": "18",
+                  "team": {
+                    "id": "9971"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/stats/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "splits",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/splits/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "gamelog",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/matches/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "news",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/news/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "bio",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/bio/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "overview",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/transfers/_/id/252805/crystopher"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "mobile",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/transfers/_/id/252805/crystopher"
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "98",
+                "text": "Penalty - Scored"
+              },
+              "clock": {
+                "value": 1716.0,
+                "displayValue": "29'"
+              },
+              "team": {
+                "id": "17333"
+              },
+              "scoreValue": 1,
+              "scoringPlay": true,
+              "redCard": false,
+              "yellowCard": false,
+              "penaltyKick": true,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "98978",
+                  "displayName": "João Paulo ",
+                  "shortName": "João Paulo ",
+                  "fullName": "João Paulo ",
+                  "jersey": "5",
+                  "team": {
+                    "id": "17333"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/stats/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "splits",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/splits/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "gamelog",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/matches/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "news",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/news/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "bio",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/bio/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "overview",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/transfers/_/id/98978/joao-paulo"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "mobile",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/transfers/_/id/98978/joao-paulo"
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2233.0,
+                "displayValue": "38'"
+              },
+              "team": {
+                "id": "9971"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "158647",
+                  "displayName": "Walisson Maia",
+                  "shortName": "W Maia",
+                  "fullName": "Walisson Maia",
+                  "jersey": "33",
+                  "team": {
+                    "id": "9971"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/stats/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "splits",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/splits/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "gamelog",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/matches/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "news",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/news/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "bio",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/bio/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "overview",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/transfers/_/id/158647/walisson-maia"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "mobile",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/transfers/_/id/158647/walisson-maia"
+                    }
+                  ],
+                  "position": "D"
+                }
+              ]
+            },
+            {
+              "type": {
+                "id": "94",
+                "text": "Yellow Card"
+              },
+              "clock": {
+                "value": 2539.0,
+                "displayValue": "43'"
+              },
+              "team": {
+                "id": "17333"
+              },
+              "scoreValue": 0,
+              "scoringPlay": false,
+              "redCard": false,
+              "yellowCard": true,
+              "penaltyKick": false,
+              "ownGoal": false,
+              "shootout": false,
+              "athletesInvolved": [
+                {
+                  "id": "186942",
+                  "displayName": "Diego Jardel",
+                  "shortName": "D Jardel",
+                  "fullName": "Diego Jardel",
+                  "jersey": "10",
+                  "team": {
+                    "id": "17333"
+                  },
+                  "links": [
+                    {
+                      "rel": [
+                        "playercard",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/stats/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "splits",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/splits/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "gamelog",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/matches/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "news",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/news/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "bio",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/bio/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "overview",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "desktop",
+                        "athlete"
+                      ],
+                      "href": "https://www.espn.com/soccer/player/transfers/_/id/186942/diego-jardel"
+                    },
+                    {
+                      "rel": [
+                        "transfers",
+                        "mobile",
+                        "athlete"
+                      ],
+                      "href": "http://www.espn.com/soccer/player/transfers/_/id/186942/diego-jardel"
+                    }
+                  ],
+                  "position": "M"
+                }
+              ]
+            }
+          ],
+          "playByPlayAvailable": true
+        }
+      ],
+      "status": {
+        "clock": 3120.0,
+        "displayClock": "52'",
+        "period": 2,
+        "type": {
+          "id": "26",
+          "name": "STATUS_SECOND_HALF",
+          "state": "in",
+          "completed": false,
+          "description": "Second Half",
+          "detail": "52'",
+          "shortDetail": "52'"
+        }
+      },
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "live",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/match?gameId=666234",
+          "text": "Gamecast",
+          "shortText": "Live",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/soccer/matchstats/_/gameId/666234",
+          "text": "Statistics",
+          "shortText": "Statistics",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ]
+    }
+  ]
+}

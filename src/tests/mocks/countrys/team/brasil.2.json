@@ -1,0 +1,1728 @@
+{
+  "sports": [
+    {
+      "id": "600",
+      "uid": "s:600",
+      "name": "Soccer",
+      "slug": "soccer",
+      "leagues": [
+        {
+          "id": "4007",
+          "uid": "s:600~l:4007",
+          "name": "Brazilian Serie B",
+          "abbreviation": "Bras B",
+          "shortName": "Brasileirao B",
+          "slug": "bra.2",
+          "teams": [
+            {
+              "team": {
+                "id": "9965",
+                "uid": "s:600~t:9965",
+                "slug": "bra.abc",
+                "abbreviation": "ABC",
+                "displayName": "ABC",
+                "shortDisplayName": "ABC",
+                "name": "ABC",
+                "location": "ABC",
+                "color": "000000",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9965.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9965.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9965/abc",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9965/abc",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9965/abc",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/abc-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "10357",
+                "uid": "s:600~t:10357",
+                "slug": "bra.goianiense",
+                "abbreviation": "AGO",
+                "displayName": "Atlético-GO",
+                "shortDisplayName": "Atlético-GO",
+                "name": "Atlético-GO",
+                "location": "Atlético-GO",
+                "color": "FF0000",
+                "alternateColor": "C60000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/10357.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/10357/atletico-go",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/10357/atletico-go",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/10357/atletico-go",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/atlético-go-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9966",
+                "uid": "s:600~t:9966",
+                "slug": "bra.ava",
+                "abbreviation": "AVA",
+                "displayName": "Avaí",
+                "shortDisplayName": "Avaí",
+                "name": "Avaí",
+                "location": "Avaí",
+                "color": "0093EC",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9966.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9966/avai",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9966/avai",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9966/avai",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/avaí-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "10281",
+                "uid": "s:600~t:10281",
+                "slug": "bra.botafogo_rp",
+                "abbreviation": "BFC",
+                "displayName": "Botafogo SP",
+                "shortDisplayName": "Botafogo SP",
+                "name": "Botafogo SP",
+                "location": "Botafogo SP",
+                "color": "000000",
+                "alternateColor": "C60000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/10281.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/10281/botafogo-sp",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/10281/botafogo-sp",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/10281/botafogo-sp",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/botafogo-sp-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9970",
+                "uid": "s:600~t:9970",
+                "slug": "bra.crb",
+                "abbreviation": "CRB",
+                "displayName": "CRB",
+                "shortDisplayName": "CRB",
+                "name": "CRB",
+                "location": "CRB",
+                "color": "C60000",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9970.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9970/crb",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9970/crb",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9970/crb",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/crb-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9969",
+                "uid": "s:600~t:9969",
+                "slug": "bra.cear",
+                "abbreviation": "CEA",
+                "displayName": "Ceará",
+                "shortDisplayName": "Ceará",
+                "name": "Ceará",
+                "location": "Ceará",
+                "color": "010101",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9969.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9969/ceara",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9969/ceara",
+                    "text": "Stats",
+                    "shortText": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9969/ceara",
+                    "text": "Fixtures",
+                    "shortText": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/ceará-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9318",
+                "uid": "s:600~t:9318",
+                "slug": "betbrain.chapecoense_af",
+                "abbreviation": "CHA",
+                "displayName": "Chapecoense",
+                "shortDisplayName": "Chapecoense",
+                "name": "Chapecoense",
+                "location": "Chapecoense",
+                "color": "417505",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9318.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9318/chapecoense",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9318/chapecoense",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9318/chapecoense",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/chapecoense-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9971",
+                "uid": "s:600~t:9971",
+                "slug": "bra.cricima",
+                "abbreviation": "CRI",
+                "displayName": "Criciúma",
+                "shortDisplayName": "Criciúma",
+                "name": "Criciúma",
+                "location": "Criciúma",
+                "color": "F8E71C",
+                "alternateColor": "000000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9971.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9971/criciuma",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9971/criciuma",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9971/criciuma",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/criciúma-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "3448",
+                "uid": "s:600~t:3448",
+                "slug": "bra.guarani_fc",
+                "abbreviation": "GUA",
+                "displayName": "Guarani",
+                "shortDisplayName": "Guarani",
+                "name": "Guarani",
+                "location": "Guarani",
+                "color": "417505",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3448.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3448.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/3448/guarani",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/3448/guarani",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/3448/guarani",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/guarani-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "4774",
+                "uid": "s:600~t:4774",
+                "slug": "bra.ituano",
+                "abbreviation": "ITU",
+                "displayName": "Ituano",
+                "shortDisplayName": "Ituano",
+                "name": "Ituano",
+                "location": "Ituano",
+                "color": "C60000",
+                "alternateColor": "000000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/4774.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/4774.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/4774/ituano",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/4774/ituano",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/4774/ituano",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/ituano-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "6270",
+                "uid": "s:600~t:6270",
+                "slug": "bra.juventude",
+                "abbreviation": "JUV",
+                "displayName": "Juventude",
+                "shortDisplayName": "Juventude",
+                "name": "Juventude",
+                "location": "Juventude",
+                "color": "417505",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/6270.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/6270/juventude",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/6270/juventude",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/6270/juventude",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/juventude-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "17333",
+                "uid": "s:600~t:17333",
+                "slug": "londrina",
+                "abbreviation": "LON",
+                "displayName": "Londrina",
+                "shortDisplayName": "Londrina",
+                "name": "Londrina",
+                "location": "Londrina",
+                "color": "0093EC",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/17333.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/17333.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/17333/londrina",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/17333/londrina",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/17333/londrina",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/londrina-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9169",
+                "uid": "s:600~t:9169",
+                "slug": "bra.mirassol",
+                "abbreviation": "MIR",
+                "displayName": "Mirassol",
+                "shortDisplayName": "Mirassol",
+                "name": "Mirassol",
+                "location": "Mirassol",
+                "color": "FEDC00",
+                "alternateColor": "417505",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9169.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9169/mirassol",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9169/mirassol",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9169/mirassol",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/mirassol-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "18127",
+                "uid": "s:600~t:18127",
+                "slug": "novorizontino",
+                "abbreviation": "NOV",
+                "displayName": "Novorizontino",
+                "shortDisplayName": "Novorizontin",
+                "name": "Novorizontino",
+                "location": "Novorizontino",
+                "color": "000000",
+                "alternateColor": "FFD704",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/18127.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/18127/novorizontino",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/18127/novorizontino",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/18127/novorizontino",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/novorizontino-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "3459",
+                "uid": "s:600~t:3459",
+                "slug": "bra.aa_ponte_preta",
+                "abbreviation": "PON",
+                "displayName": "Ponte Preta",
+                "shortDisplayName": "Ponte Preta",
+                "name": "Ponte Preta",
+                "location": "Ponte Preta",
+                "color": "000000",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3459.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/3459/ponte-preta",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/3459/ponte-preta",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/3459/ponte-preta",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/ponte-preta-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "4873",
+                "uid": "s:600~t:4873",
+                "slug": "bra.sampaio_correa-ma",
+                "abbreviation": "SAM",
+                "displayName": "Sampaio Corrêa",
+                "shortDisplayName": "Sampaio Corrêa",
+                "name": "Sampaio Corrêa",
+                "location": "Sampaio Corrêa",
+                "color": "FFD65A",
+                "alternateColor": "DC0000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/4873.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/4873.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/4873/sampaio-correa",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/4873/sampaio-correa",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/4873/sampaio-correa",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/sampaio-corrêa-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "7635",
+                "uid": "s:600~t:7635",
+                "slug": "bra.sport",
+                "abbreviation": "SPO",
+                "displayName": "Sport",
+                "shortDisplayName": "Sport",
+                "name": "Sport",
+                "location": "Sport",
+                "color": "C60000",
+                "alternateColor": "000000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/7635.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/7635/sport",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/7635/sport",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/7635/sport",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/sport-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "17339",
+                "uid": "s:600~t:17339",
+                "slug": "tombense",
+                "abbreviation": "TOM",
+                "displayName": "Tombense",
+                "shortDisplayName": "Tombense",
+                "name": "Tombense",
+                "location": "Tombense",
+                "color": "C60000",
+                "alternateColor": "fafafa",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/17339.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/17339.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/17339/tombense",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/17339/tombense",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/17339/tombense",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/tombense-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "9973",
+                "uid": "s:600~t:9973",
+                "slug": "bra.vila_nova-go",
+                "abbreviation": "VIL",
+                "displayName": "Vila Nova-GO",
+                "shortDisplayName": "Vila Nova-GO",
+                "name": "Vila Nova-GO",
+                "location": "Vila Nova-GO",
+                "color": "C60000",
+                "alternateColor": "fafafc",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/9973.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/9973/vila-nova-go",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/9973/vila-nova-go",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/9973/vila-nova-go",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/vila-nova-go-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            },
+            {
+              "team": {
+                "id": "3457",
+                "uid": "s:600~t:3457",
+                "slug": "bra.ec_vitoria",
+                "abbreviation": "VIT",
+                "displayName": "Vitória",
+                "shortDisplayName": "Vitória",
+                "name": "Vitória",
+                "location": "Vitória",
+                "color": "C6101C",
+                "alternateColor": "C60000",
+                "isActive": true,
+                "isAllStar": false,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/soccer/500-dark/3457.png",
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500,
+                    "height": 500
+                  }
+                ],
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/club/_/id/3457/vitoria",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/stats/_/id/3457/vitoria",
+                    "text": "Stats",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/fixtures/_/id/3457/vitoria",
+                    "text": "Fixtures",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "language": "en",
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.vividseats.com/bra.2-soccer/vitória-tickets.html?wsUser=717",
+                    "text": "Tickets",
+                    "isExternal": true,
+                    "isPremium": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
