@@ -9,8 +9,6 @@ Este projeto foi desenvolvido com o objetivo de reforçar meus conhecimentos em 
 
 Estou muito satisfeito com o resultado final, e ainda tenho ideias para implementar e expandir o projeto em algo maior. Porém, acredito que esse projeto seja uma demonstração sólida de minhas habilidades em programação com React.
 
-Iniciando faze de testes...
-
 <p align="center">
   <img src="./src/assets/Peek%202023-04-30%2015-57.gif" alt="animação do app">
 </p>
